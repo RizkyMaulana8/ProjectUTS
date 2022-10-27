@@ -79,7 +79,7 @@ main() {
   _nilai = 95;
   ubhara.setNama("Rizky Maulana Arrasyid");
   ubhara.setNilai(_nilai);
-  ubhara.setKelas("F5A7");
+  ubhara.setKelas("F5A1");
   ubhara.setMatkul("Pemrograman Perangkat Bergerak");
   ubhara.setGrade("A");
 
@@ -89,9 +89,8 @@ main() {
   print("Matakuliah: ${ubhara.getMatkul()}");
   print("Grade: ${ubhara.getGrade()}");
 } 
-//Nama: Dian
-//Alamat: Lombok
-//ALAMT EMAIL:..
-//BERAPA KALI PEMBAYARAN :...
-//umur: 30
-//PEMBAYARAN: 120000
+//Nama: Rizky Maulana Arrasyid
+//Nilai UTS: 95
+//Kelas : F5A1
+//Mata Kuliah : Pemrograman Perangkat Bergerak
+//Grade : A+
